@@ -1,3 +1,2 @@
-# littlerpg
-RPG in python
-later I will be adding a feature to this github repository to add new dialog
+# my goal is making a video editor with no gui
+this is going to be very bad
